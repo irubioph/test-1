@@ -7,5 +7,5 @@ const FooterNine = () => {
         </footer>
      );
 }
- 
+
 export default FooterNine;
