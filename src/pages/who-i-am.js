@@ -1,7 +1,5 @@
 import FooterNine from "@/components/Footers/FooterNine";
 
-FooterNine
-
 const whoIam = () => {
     return ( 
         <>
